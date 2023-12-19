@@ -1,0 +1,14 @@
+C:\Users\h4nz1\RiderProjects\YTT_6_2\YTT_6_2\bin\Debug\net7.0\YTT_6_2.exe
+C:\Users\h4nz1\RiderProjects\YTT_6_2\YTT_6_2\bin\Debug\net7.0\YTT_6_2.deps.json
+C:\Users\h4nz1\RiderProjects\YTT_6_2\YTT_6_2\bin\Debug\net7.0\YTT_6_2.runtimeconfig.json
+C:\Users\h4nz1\RiderProjects\YTT_6_2\YTT_6_2\bin\Debug\net7.0\YTT_6_2.dll
+C:\Users\h4nz1\RiderProjects\YTT_6_2\YTT_6_2\bin\Debug\net7.0\YTT_6_2.pdb
+C:\Users\h4nz1\RiderProjects\YTT_6_2\YTT_6_2\obj\Debug\net7.0\YTT_6_2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\h4nz1\RiderProjects\YTT_6_2\YTT_6_2\obj\Debug\net7.0\YTT_6_2.AssemblyInfoInputs.cache
+C:\Users\h4nz1\RiderProjects\YTT_6_2\YTT_6_2\obj\Debug\net7.0\YTT_6_2.AssemblyInfo.cs
+C:\Users\h4nz1\RiderProjects\YTT_6_2\YTT_6_2\obj\Debug\net7.0\YTT_6_2.csproj.CoreCompileInputs.cache
+C:\Users\h4nz1\RiderProjects\YTT_6_2\YTT_6_2\obj\Debug\net7.0\YTT_6_2.dll
+C:\Users\h4nz1\RiderProjects\YTT_6_2\YTT_6_2\obj\Debug\net7.0\refint\YTT_6_2.dll
+C:\Users\h4nz1\RiderProjects\YTT_6_2\YTT_6_2\obj\Debug\net7.0\YTT_6_2.pdb
+C:\Users\h4nz1\RiderProjects\YTT_6_2\YTT_6_2\obj\Debug\net7.0\YTT_6_2.genruntimeconfig.cache
+C:\Users\h4nz1\RiderProjects\YTT_6_2\YTT_6_2\obj\Debug\net7.0\ref\YTT_6_2.dll

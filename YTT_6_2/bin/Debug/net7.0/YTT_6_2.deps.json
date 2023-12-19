@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "YTT_6_2/1.0.0": {
+        "runtime": {
+          "YTT_6_2.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "YTT_6_2/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
